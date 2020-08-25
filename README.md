@@ -36,7 +36,7 @@ FEATURES for this e-shop:
 
 6. PLUS---
 
-   color changing background; Qty=0 auto clear; Link between sites and more can't remember
+   Qty=0 auto clear; Link between sites and more can't remember
 
 
 
