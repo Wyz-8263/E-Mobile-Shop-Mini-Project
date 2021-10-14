@@ -6,12 +6,11 @@ IM2073 4-Wk WebApp PRJ: MySQL+Tomcat+Java Servlet Programming
 THINGS YOU NEED TO LEARN:
 
 ---Thanks Prof Chua!!---
-
-https://www.ntu.edu.sg/home/ehchua/programming/sql/MySQL_HowTo.html
-https://www.ntu.edu.sg/home/ehchua/programming/java/JDBC_Basic.html
-https://www.ntu.edu.sg/home/ehchua/programming/howto/Tomcat_HowTo.html
-https://www.ntu.edu.sg/home/ehchua/programming/java/JavaServletCaseStudy.html
-
+(link updated)
+https://personal.ntu.edu.sg/ehchua/programming/sql/MySQL_HowTo.html
+https://personal.ntu.edu.sg/ehchua/programming/java/JDBC_Basic.html
+https://personal.ntu.edu.sg/ehchua/programming/howto/Tomcat_HowTo.html
+https://personal.ntu.edu.sg/ehchua/programming/java/JavaServletCaseStudy.html
 
 
 
